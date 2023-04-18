@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    margin: auto;
+    width: 700px;
+    height: 700px;
+    background-color: thistle;
+}
+
+.flex-item{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: #000 3px solid;
+}
